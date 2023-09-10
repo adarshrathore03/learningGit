@@ -5,3 +5,5 @@ calling
 messaging
 
 calculator
+
+internet
